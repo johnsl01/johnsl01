@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @johnsl01
 - 👀 I’m interested in many things - principally engineering and numismatics 
-- within these software engineering and medieval numismatics 
+- within these software engineering and medieval Irish numismatics 
 - but other than music I am interested in most aspects of human knowledge - perhaps too many!
 - music is the exception because I simply can't hear what everybody else finds so interesting in it.
 - 🌱 I’m currently learning about financial crime detection models.
